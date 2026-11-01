@@ -34,7 +34,7 @@ This repository, authored and curated by **[DC VOLTAGE](https://github.com/dc-vo
 - [Visual Verification & Feature Showcase](#visual-verification--feature-showcase)
 - [Network Configuration & Post-Install Setup](#network-configuration--post-install-setup)
 - [Troubleshooting & Emergency Recovery](#troubleshooting--emergency-recovery)
-- [Credits & Open-Source Acknowledgments](#credits--open-source-acknowledgments)
+- [Project & Engineering](#project--engineering)
 - [Disclaimer & License](#disclaimer--license)
 
 ---
@@ -371,13 +371,10 @@ fw_setenv bootcmd 'bootipq'
 
 ---
 
-## 🤝 Credits & Open-Source Acknowledgments
+## ⚡ Project & Engineering
 
-This educational repository stands upon the shoulders of the embedded networking and open-source communities:
 * **[DC VOLTAGE](https://github.com/dc-voltage)** — Project architecture, comprehensive documentation, testing, and script automation.
-* **[@Sandiep](https://github.com/Sandiep)** — Outstanding work crafting and maintaining custom OpenWrt device trees and kernel support for Qualcomm IPQ50xx/IPQ95xx hardware.
-* **[@themayankraut](https://github.com/themayankraut)** — Original automated dual-slot NAND detection logic and SSH flashing research.
-* **[The OpenWrt Project](https://openwrt.org/)** — For providing the premier free, extensible Linux operating system for wireless routers.
+* **[The OpenWrt Project](https://openwrt.org/)** — Open-source embedded wireless router operating system.
 
 ---
 
